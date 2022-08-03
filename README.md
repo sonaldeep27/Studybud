@@ -1,4 +1,5 @@
 # Studybud
+Built using Python and Django
 Screenshots of the project :
 ![Studybud-1](https://user-images.githubusercontent.com/109277501/179477067-8975ed5a-2702-4c02-a16e-3504f337fef8.png)
 ![Studybud-2](https://user-images.githubusercontent.com/109277501/179477077-675e9dfa-b9fd-4dc0-ac3c-da4e4e3dd426.png)
